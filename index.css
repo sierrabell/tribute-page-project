@@ -22,10 +22,8 @@ margin: auto;
 img {
   border-radius: 30px;
   max-width: 100%;
-  display: flex;
+  display: block;
   justify-content: center;
-
-
 }
 #link{
   font-family: monospace;
