@@ -1,0 +1,65 @@
+#title{
+  color:#CC0066;
+  text-align: center;
+  font-size: 125px;
+  font-family:monospace;
+}
+#picture {
+display: Block;
+margin: auto;
+}
+#sunflowers {
+  font-family:monospace ;
+  color: #ffcc00;
+  display: flex;
+  justify-content: space-around;
+  background-color: #FFFFE0;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  border-radius: 30px;
+}
+img {
+  border-radius: 30px;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+
+
+}
+#link{
+  font-family: monospace;
+  font-size: 80px;
+  color: #CC0066;
+
+}
+#learn {
+  font-family: monospace;
+  color: #CC0066;
+  font-size: 100px;
+
+}
+a{
+  font-family: monospace;
+  color: #CC0066;
+  font-size: 100px;
+  background-color: #f9c7ce;
+  border-radius: 30px;
+}
+#tribute-info{
+  background-color:#f9c7ce;
+  border-radius: 30px;
+  width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+
+
+}
+#img-div {
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+
+}
